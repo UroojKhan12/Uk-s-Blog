@@ -1,0 +1,124 @@
+
+h4 {
+    font-family: Georgia, Arial, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(216, 61, 87);
+    text-align: center;
+}
+
+h5 {
+    font-size: 17px;
+    color:rgb(96, 8, 77)
+}
+
+p {
+    font-size: 20px;
+}
+     
+h1 {
+    color: darkblue;
+}
+     
+/*
+.container{
+    display:grid;
+    grid-template-columns: block;
+    grid-template-rows: auto;
+    grid-gap: 5px;
+    grid-template-areas:
+    "hd"
+    "sd"
+    "main"
+    "ft";
+    border: 2px solid purple;
+}
+*/ /*
+.nestedGrid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+    border: 2px red;
+}
+
+.box {
+    border:black;
+    background: #8f8f8f;
+}
+
+.header {
+    grid-area: hd;
+}
+
+.menu {
+    grid-area:sd;
+}
+
+.content {
+    grid-area: main;
+}
+
+.footer {
+    grid-area: ft;
+}
+*//*
+@media(min-width:900px) {
+    .container {
+        display:grid;
+        grid-template-columns: 300px 300px 300px;
+        grid-template-rows: 250px 600px;
+        grid-template-areas: 
+         "hd hd hd hd hd hd hd hd"
+         "sd sd main main main main main main"
+         "ft ft ft ft ft ft ft ft";
+        border: 2px solid red;
+    }
+}
+
+    /* Typography: Custom design for typography with at least 3 unique properties for each typography selector
+        Headers (h1 to h3 at minimum) <h1>
+                    done
+        Paragraph Text <p>
+            a. Bold - 
+            b. Italic - done
+            c. Underlined -  done
+        Links <a> -- one or two
+        Quotes - ?
+
+        at least 3 imported files in the main CSS file 
+        how ^?
+    */
+
+
+        .smallbox {
+            display: grid;
+            width: 300px;
+            height: 150px;
+            align-items: center;
+            justify-content: center;
+            border: 0.5px solid black;
+            text-align: center;
+            font-size: 23px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        
+
+        #smol {
+            height: 40px;
+            width: 150px;
+        }
+
+        #smol2 {
+            height: 40px;
+            width: 200px;
+        }
+
+        #smol3 {
+            height: 40px;
+            width: 250px;
+        }
+
+        
+        /**/
+
+
+    
